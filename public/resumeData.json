@@ -1,0 +1,104 @@
+{
+  "main": {
+    "name": "Chris Thompson",
+    "occupation": "Frontend React Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "/images/portfolio/resprof.jpg",
+    "bio": "Hey there, I'm Chris Thompson. I've been coding for a little over a year now. As a Frontend developer I've worked as an intern with a SaaS startup and built out my own series of robust react apps. Along the journey I realised my passion for making an impact on the world through the engaging skill of software development. I decided to commit myself 100% to this craft after having such an empowering experience starting from ground zero and getting to the point where I could build out my own projects",
+    "contactmessage": "Get in touch to work with me!",
+    "email": "theinfinitehumanblueprint@gmail.com",
+    "phone": "7403190859",
+    "address": {
+      "street": "113 Grove Hill Rd",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15005"
+    },
+    "website": "",
+    "resumedownload": "/assets/ChrisThompson_resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/christopher-thompson-69521b66",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/chrisalecthompson",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/christhomp13",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Invigorate Code",
+        "degree": "1:1 Private Coding Mentorship",
+        "graduated": "November 2021",
+        "description": "Learned the MERN Stack"
+      }
+    ],
+    "work": [
+      {
+        "company": "Distribrewtion",
+        "title": "Software Engineering Intern",
+        "years": "June 2021 - Present",
+        "description": "Assisting in key software updates on both the UI frontend side as well as the backend."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": "100%"
+      },
+      {
+        "name": "MySql",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "CSS3",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Coffee Commerce",
+        "category": "",
+        "image": "coffeecommerce.jpg",
+        "url": "https://bestcoffeecommerce.netlify.app/"
+      },
+      {
+        "title": "LifeRx",
+        "category": "",
+        "image": "LifeRx.jpg",
+        "url": "https://liferx.netlify.app/"
+      },
+      {
+        "title": "AirBnB 2.0 ",
+        "category": "",
+        "image": "airbnb.jpg",
+        "url": "https://github.com/christhomp13/airbnb-v2"
+      }
+    ]
+  }
+}
