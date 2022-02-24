@@ -4,7 +4,7 @@
     "occupation": "Frontend React Developer",
     "description": "I eat, sleep and breathe React",
     "image": "/images/portfolio/resprof.jpg",
-    "bio": "Hey there, I'm Chris Thompson. I've been coding for a little over a year now. As a Frontend developer I've worked as an intern with a SaaS startup and built out my own series of robust react apps. Along the journey I realised my passion for making an impact on the world through the engaging skill of software development. I decided to commit myself 100% to this craft after having such an empowering experience starting from ground zero and getting to the point where I could build out my own projects",
+    "bio": "Hey there, I'm Chris Thompson. I've been coding for a little over a year now. As a Frontend developer I've worked as an intern with a SaaS startup, currently working with an NFT startup company building their front-end, and built out my own series of robust react apps. Along the journey I realised my passion for making an impact on the world through the engaging skill of software development. I decided to commit myself 100% to this craft after having such an empowering experience starting from ground zero and getting to the point where I could build out my own projects",
     "contactmessage": "Get in touch to work with me!",
     "email": "theinfinitehumanblueprint@gmail.com",
     "phone": "7403190859",
@@ -15,7 +15,7 @@
       "zip": "15005"
     },
     "website": "",
-    "resumedownload": "/assets/ChrisThompson_resume.pdf",
+    "resumedownload": "/assets/Chris_Thompson_Resume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -41,20 +41,30 @@
         "school": "Invigorate Code",
         "degree": "1:1 Private Coding Mentorship",
         "graduated": "November 2021",
-        "description": "Learned the MERN Stack"
+        "description": "Learned the MERN Stack through individualized mentorship"
       }
     ],
     "work": [
       {
         "company": "Distribrewtion",
         "title": "Software Engineering Intern",
-        "years": "June 2021 - Present",
+        "years": "June 2021 - November 2021",
         "description": "Assisting in key software updates on both the UI frontend side as well as the backend."
+      },
+      {
+        "company": "Cryptofunk",
+        "title": "Front-End Software Engineering",
+        "years": "February 2022 - Present",
+        "description": "Building the front-end design for cryptofunk NFT main website."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "NextJs",
         "level": "90%"
       },
       {
@@ -67,6 +77,10 @@
       },
       {
         "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "Typescript",
         "level": "100%"
       },
       {
@@ -88,17 +102,18 @@
         "url": "https://bestcoffeecommerce.netlify.app/"
       },
       {
+        "title": "Adventure Times Blog",
+        "category": "",
+        "image": "adventureTimes.jpg",
+        "url": "https://adventuretimesblog.vercel.app/"
+      },
+      {
         "title": "LifeRx",
         "category": "",
         "image": "LifeRx.jpg",
         "url": "https://liferx.netlify.app/"
-      },
-      {
-        "title": "AirBnB 2.0 ",
-        "category": "",
-        "image": "airbnb.jpg",
-        "url": "https://github.com/christhomp13/airbnb-v2"
       }
+      
     ]
   }
 }
